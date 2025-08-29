@@ -14,7 +14,7 @@ Investment Trends – Exploring preference scores across financial products
 
 Risk Appetite – Studying demographics vs. investment choices
 
-Correlation Study – Analyzing relationships between instruments
+Correlation Study – Analyzing relationships between investement & contributing factors
 
 Visualization & Insights – Communicating results with plots
 
