@@ -1,6 +1,8 @@
 **MABLE VENTURE REVENUE ANALYSIS**
 
-Aim: To track achivement in terms of total enumertions completed across **20** Local Govenment Areas in Lagos State, Nigeria. To evauluate completion rate, factors supporting or inhibiting this completion rate.
+Aim: Evaluate company sales in terms of revenue, quantity sold for various product categories.
+
+Period: January- May 2023
 
 Visualization Tool: **Looker Studio**
 
