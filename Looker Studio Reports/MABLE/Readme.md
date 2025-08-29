@@ -1,13 +1,14 @@
 **MABLE VENTURE REVENUE ANALYSIS**
 
-Aim: To track achivement in terms of total enumertions completed across 20 Local Govenment Areas in Lagos State, Nigeria. To evauluate completion rate, factors supporting or inhibiting this completion rate.
+Aim: To track achivement in terms of total enumertions completed across **20** Local Govenment Areas in Lagos State, Nigeria. To evauluate completion rate, factors supporting or inhibiting this completion rate.
 
+Visualization Tool: Looker Studio
 **KEY INSIGHT**
 - Highest Selling Category is Office Supplies while the least is furniture with.
 -Most profitable products is laptop with profitability of while the least is desk chair.
--Corporate were the highest purchasers of all categories of products with a total of <font color="#388e3c">383</font> items purchased&nbsp; and also the most profitable sales channels.
+-Corporate were the highest purchasers of all categories of products with a total of  items purchased and also the most profitable sales channels.
 -Based on trend analysis, purchases&nbsp; peaked from while purchases dropped during the early month of March then peaked from March 28th and then running into the month of April.
-- As we can see the revenue increased slightly between N102,531 and N116,814 in the last four month.
+- As we can see the revenue increased slightly between **N102,531** and **N116,814** in the last **4** month.
 
 **RECOMMENDATION**
 - From the chart above, corporate firms tends to purchase more of electronics while consumers purchase more of furniture.
