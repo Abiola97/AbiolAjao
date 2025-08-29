@@ -1,4 +1,4 @@
-Investment Data Analysis
+**##Investment Data Analysis**
 
 This project performs exploratory data analysis (EDA) on an investment dataset to uncover trends in investor demographics, preferences, and risk appetites.
 
