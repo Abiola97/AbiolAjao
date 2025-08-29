@@ -2,7 +2,7 @@
 
 This project performs exploratory data analysis (EDA) on an investment dataset to uncover trends in investor demographics, preferences, and risk appetites.
 
-📊 Project Workflow
+📊 **Project Workflow**
 
 Data Overview – Inspect dataset structure
 
@@ -18,7 +18,7 @@ Correlation Study – Analyzing relationships between instruments
 
 Visualization & Insights – Communicating results with plots
 
-⚙️ Tools & Libraries
+⚙️ **Tools & Libraries**
 
 Python, Pandas, NumPy – Data analysis
 
@@ -26,7 +26,7 @@ Matplotlib, Seaborn – Visualization
 
 Jupyter Notebook – Interactive analysis
 
-📈 Key Insights
+📈 **Key Insights**
 
 Average investor age: 27.8 years
 
@@ -38,7 +38,7 @@ PPF is the least attractive option among surveyed investors
 
 Traditional (low-risk) and Market (high-risk) instruments show distinct correlation clusters
 
-📷 Sample Visualizations
+📷 **Sample Visualizations**
 Gender Distribution Pie Chart
 <img width="556" height="598" alt="image" src="https://github.com/user-attachments/assets/c44c2d92-4e4a-4dda-a54f-249153eddf6b" />
 
@@ -56,7 +56,7 @@ Reasons for Investment
 <img width="1005" height="459" alt="image" src="https://github.com/user-attachments/assets/5c68df78-df5a-40ea-9730-4e9697e3dc9c" />
 
 
-🚀 Outcomes
+🚀**Outcomes**
 
 Clear visualization of investment preferences
 
