@@ -2,7 +2,8 @@
 
 Aim: To track achivement in terms of total enumertions completed across **20** Local Govenment Areas in Lagos State, Nigeria. To evauluate completion rate, factors supporting or inhibiting this completion rate.
 
-Visualization Tool: Looker Studio
+Visualization Tool: **Looker Studio**
+
 **KEY INSIGHT**
 - Highest Selling Category is Office Supplies while the least is furniture with.
 -Most profitable products is laptop with profitability of while the least is desk chair.
