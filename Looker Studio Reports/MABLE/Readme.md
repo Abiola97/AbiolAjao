@@ -3,8 +3,17 @@
 Aim: To track achivement in terms of total enumertions completed across 20 Local Govenment Areas in Lagos State, Nigeria. To evauluate completion rate, factors supporting or inhibiting this completion rate.
 
 **KEY INSIGHT**
--<div><font style="font-size: 20px;"></font><font style="font-size: 16px;">Highest Selling Category is Office Supplies while the least is furniture with<font color="#388e3c"> 41.7%</font></font></div><div><span style="font-size: 16px;"><br></span></div><div><span style="font-size: 16px;">-Most profitable products is laptop with profitability of </span><font color="#388e3c" style="font-size: 16px;">N11,031</font><span style="font-size: 16px;"> while the least is desk chair.</span><br></div><div><font style="font-size: 16px;"><br></font></div><div><font style="font-size: 16px;">&nbsp;-Corporate were the highest purchasers of all categories of products with a total of <font color="#388e3c">383</font> items purchased&nbsp; and also the most profitable sales channels.</font></div><div><span style="font-size: 16px;"><br></span></div><div><br></div><div><span style="font-size: 16px;">-Based on trend analysis, purchases&nbsp; peaked from</span><font color="#388e3c" style="font-size: 16px;"> Jan 26th-Feb 15th</font><span style="font-size: 16px;"> while purchases dropped during the early month of March then peaked from </span><font color="#388e3c" style="font-size: 16px;">March 28th</font><span style="font-size: 16px;"> and then running into the</span><font color="#388e3c" style="font-size: 16px;"> month of April.</font></div><div><font color="#388e3c" style="font-size: 16px;"><br></font></div><div><font color="#388e3c" style="font-size: 16px;">--</font><font style="font-size: 16px;" color="#434343">As we can see the revenue increased slightly between N102,531 and N116,814 in the last four month.
-</font></div>
+- Highest Selling Category is Office Supplies while the least is furniture with.
+-Most profitable products is laptop with profitability of while the least is desk chair.
+-Corporate were the highest purchasers of all categories of products with a total of <font color="#388e3c">383</font> items purchased&nbsp; and also the most profitable sales channels.
+-Based on trend analysis, purchases&nbsp; peaked from while purchases dropped during the early month of March then peaked from March 28th and then running into the month of April.
+- As we can see the revenue increased slightly between N102,531 and N116,814 in the last four month.
 
 **RECOMMENDATION**
-<div><font style="font-size: 16px;">From the chart above, corporate firms tends to purchase more of electronics while consumers purchase more of furniture. The case is different for home office customers who purchase more of office supplies.</font></div><div><font style="font-size: 16px;"><br></font></div><div><span style="font-size: 16px;">Given these insights, more marketing efforts should be placed towards:</span></div><div><span style="font-size: 16px;"><br></span></div><div><span style="font-size: 16px;">(a) Corporate firms purchasing more electronics.</span></div><div><span style="font-size: 16px;"><br></span></div><div><span style="font-size: 16px;">(b) Consumers ordering more furniture</span></div><div><br></div><div><span style="font-size: 16px;">(c)Selling office supplies to Home Office customers.</span></div><div><span style="font-size: 16px;"><br></span></div><div><span style="font-size: 16px;">This will boost sales and revenue as well as increase profitability for the business in the long run.</span></div>
+- From the chart above, corporate firms tends to purchase more of electronics while consumers purchase more of furniture.
+- The case is different for home office customers who purchase more of office supplies.
+- Given these insights, more marketing efforts should be placed towards:
+(a) Corporate firms purchasing more electronics.
+(b) Consumers ordering more furniture
+(c)Selling office supplies to Home Office customers.
+This will boost sales and revenue as well as increase profitability for the business in the long run.
