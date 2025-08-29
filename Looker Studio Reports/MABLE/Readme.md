@@ -6,9 +6,9 @@ Visualization Tool: **Looker Studio**
 
 **KEY INSIGHT**
 - Highest Selling Category is Office Supplies while the least is furniture with.
--Most profitable products is laptop with profitability of while the least is desk chair.
--Corporate were the highest purchasers of all categories of products with a total of  items purchased and also the most profitable sales channels.
--Based on trend analysis, purchases&nbsp; peaked from while purchases dropped during the early month of March then peaked from March 28th and then running into the month of April.
+- Most profitable products is laptop with profitability of while the least is desk chair.
+- Corporate were the highest purchasers of all categories of products with a total of  items purchased and also the most profitable sales channels.
+- Based on trend analysis, purchases&nbsp; peaked from while purchases dropped during the early month of March then peaked from March 28th and then running into the month of April.
 - As we can see the revenue increased slightly between **N102,531** and **N116,814** in the last **4** month.
 
 **RECOMMENDATION**
