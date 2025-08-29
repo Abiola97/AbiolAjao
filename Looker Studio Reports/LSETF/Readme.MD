@@ -3,7 +3,7 @@
 ### Aim: 
 To track achivement in terms of total enumertions completed across 20 Local Govenment Areas in Lagos State, Nigeria. To evauluate completion rate, factors supporting or inhibiting this completion rate.
 
-# Visualisation Tool: Looker Studio
+### Visualisation Tool: Looker Studio
 
 ### Key Insights & Performance:
 - 6865 MSME owners and artisans were enumerated over the course of 3 weeks.
