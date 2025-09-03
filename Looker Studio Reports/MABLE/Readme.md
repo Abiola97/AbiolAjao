@@ -1,4 +1,4 @@
-## MABLE VENTURE REVENUE ANALYSIS
+## XYZ VENTURE REVENUE ANALYSIS
 
 Aim: Evaluate company sales in terms of revenue, quantity sold for various product categories.
 
