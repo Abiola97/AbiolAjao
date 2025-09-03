@@ -1,6 +1,6 @@
 ## XYZ VENTURE REVENUE ANALYSIS
 
-Aim: Evaluate company sales in terms of revenue, quantity sold for various product categories.
+Aim: Evaluate company sales performance in terms of revenue, quantity sold for various product categories.
 
 Period: January- May 2023
 
