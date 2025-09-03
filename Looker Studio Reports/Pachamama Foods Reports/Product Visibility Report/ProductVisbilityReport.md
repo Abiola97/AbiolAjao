@@ -1,8 +1,6 @@
-## FMCG (Foods) Products Visibility (Most Stocked List Products) across retail stores
+## FMCG (P-Foods) Products Visibility (Most Stocked List Products) across retail stores
 
-## XYZ VENTURE PERFORMANCE REVIEW (SALES, PRODUCT & REVENUE)
-
-Aim: Evaluate company sales performance in terms of revenue, quantity sold for various product categories.
+Aim: Evaluate P-FOODS company Product Visibility Performance in terms of Most Stocked List (MSL) Compliance.
 
 Period: May 2023
 
