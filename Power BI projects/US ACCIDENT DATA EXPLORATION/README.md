@@ -1,5 +1,5 @@
 
-### US ROAD ACCIDENTS EXPLORATORY DATA ANALYSIS
+## US ROAD ACCIDENTS EXPLORATORY DATA ANALYSIS
 
 **Aim**:
 - Conducting descriptive analytics on road accidents occurence in the US to know the accident hotspots (city, county & states)  and severity levels.
@@ -18,7 +18,7 @@ Visualization Tool: **Power BI**
 - Crossings and Traffic signals should be installed in the most frequent road accident hotspot locations..
 - More Traffic wardens should be deployed to control traffic during busy and peak periods (Days, hours & Months) when there is heavy traffic and influx of drivers on the road. 
 
-## KAGGLE DATASET 
+#### KAGGLE DATASET 
 **Link**: [US accident Datset)](https://www.google.com/url?q=https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents&sa=D&source=editors&ust=1742223160643904&usg=AOvVaw0e_-FH7cw0jZumcWC3kMrS)](#)
 
 
