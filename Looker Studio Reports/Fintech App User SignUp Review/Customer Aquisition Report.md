@@ -2,7 +2,7 @@
 # CUSTOMER ACQUISITION REPORT FOR FINTECH APP
 
 ## Aim: 
-- Performance report tracker on the onboarding of 20,000+ SMEs by 30+ teams for a renown financial instution application adoption as measured by user registrations
+- Performance report tracker on the onboarding of 19,000+ SMEs by 30+ teams for a renown financial instution application adoption.
 - To futher boost financial inclusion by 20% as measured by SME engagement by applying data-driven strategies in underserved communities
 
 
