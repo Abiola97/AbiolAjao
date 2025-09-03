@@ -16,5 +16,12 @@ Visualization Tool: **Looker Studio**
 - Comapny should focus attention on how to increase cash sales and manage credit sales to ensure timely payments.
 - More marketing efforts should be directed to company platforms & other direct sales channel to further maximize sales & provide more support for Sales Reps to further generate more revenue.
 
-**Product Visi)bility Report Link**:https://lookerstudio.google.com/reporting/35be3117-15d0-4938-9e2a-d48b23009ae3
-**Sales Performance Report Link**:https://lookerstudio.google.com/reporting/8235137d-b1cd-4821-8a8c-ee4f3bd80bd9
+## Product Visibility Report
+**Link**: https://lookerstudio.google.com/reporting/35be3117-15d0-4938-9e2a-d48b23009ae3
+## Sales Performance Report:
+
+## Monthly Sales Report
+**Link**: https://lookerstudio.google.com/reporting/8235137d-b1cd-4821-8a8c-ee4f3bd80bd9
+
+## Weekly Sales Report
+**Link**: https://lookerstudio.google.com/reporting/5fc8e909-6773-452f-94c7-fba425224a4d
