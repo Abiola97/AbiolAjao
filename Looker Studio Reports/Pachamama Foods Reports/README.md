@@ -9,7 +9,7 @@ Visualization Tool: **Looker Studio**
 **KEY INSIGHTs**
 - Highest Selling SKU Product is Rice 1kg in terms of Cash Sales and Instant Baby Cereal by Credit Sales.
 - Majority of sales came from the company's direct channels (Social media platforms & Direct Pre-orders)
-- 73% of Sales are Credit Sales with an estimate of **N1,639,400** in the last **1** month.
+- 73% of Sales are Credit Sales with an estimate of **N1,639,400** in the **May 2023**.
 
 **RECOMMENDATIONs**
 - Adequate marketing support should be created to sell off most stocked product category (Tom Brown Plus) to boost sales.
