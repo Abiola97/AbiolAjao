@@ -21,3 +21,5 @@ Visualization Tool: **Looker Studio**
 (b) Consumers ordering more furniture
 (c)Selling office supplies to Home Office customers.
 This will boost sales and revenue as well as increase profitability for the business in the long run.
+
+**Report Link**: https://lookerstudio.google.com/reporting/f0244536-665e-4aeb-9176-a4cbe8c93813
