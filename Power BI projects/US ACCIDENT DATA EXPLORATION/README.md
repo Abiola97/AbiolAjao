@@ -1,7 +1,7 @@
 
 ## US ACCIDENT EXPLORATORY DATA ANALYSIS
 
-**Aim: **
+**Aim**:
 - Conducting descriptive analytics on accidents occurence in the US to know the accident hotspots (city, county & states)  and severity levels.
 - Running a diagnistic analysis and data exploration to decipher the most contributing factors to accidents in the US
   
