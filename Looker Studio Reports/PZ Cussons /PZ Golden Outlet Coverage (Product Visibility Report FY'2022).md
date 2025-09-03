@@ -1,7 +1,7 @@
-## PZ Cussons Golden Outlet Coverage Report
+## Home Care Product Visibility & Market Share Report
 Objective: Tracking (Most stocked List Product & Share of Shelves).
 
-Aim: To track PZ Cussons Products Product Visboility and Market Share across retail stores.
+Aim: To track Home Care  Products Product Visboility and Market Share across retail stores.
 
 Year-in-review: 2022
 
