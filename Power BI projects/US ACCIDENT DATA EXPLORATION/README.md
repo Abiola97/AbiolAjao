@@ -1,5 +1,5 @@
 
-## US ROAD ACCIDENTs EXPLORATORY DATA ANALYSIS
+## US ROAD ACCIDENTS EXPLORATORY DATA ANALYSIS
 
 **Aim**:
 - Conducting descriptive analytics on road accidents occurence in the US to know the accident hotspots (city, county & states)  and severity levels.
