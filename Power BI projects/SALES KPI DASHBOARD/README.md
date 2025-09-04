@@ -1,4 +1,4 @@
-## P-FOODS BUSINESS PERFORMANCE REVIEW (SALES, PRODUCT VISIBILITY)
+## AWESOME CHOCOLOATE BUSINESS PERFORMANCE REVIEW (SALES, PRODUCT VISIBILITY)
 
 **Aim:** 
 - Track Business Performance  for an FMCG brand(Awesome Chocolates)in terms of total customers, sales & revenue.
